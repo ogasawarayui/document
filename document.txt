@@ -1,0 +1,2 @@
+marginはborderの外側に余白を作りたいときに使用する
+paddingはborderと表示領域の間に余白を作りたい時に使用する
